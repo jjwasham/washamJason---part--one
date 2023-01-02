@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../unit1-practice"
+		},
+		{
+			"path": "../../unit1-js-practice"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Learn-to-code-website"
+	}
+}
